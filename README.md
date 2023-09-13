@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 # Charlie LeWarne
 
-## About Me
+## ❓ About Me
 
-Hi! My name is Charlie LeWarne and I am an entry level software developer. My experience is in full stack engineering and am very passionate about backend work in particular. I have been working outside of school as a freelancer for 9 months, as well as 5 months at a startup: Good Work Hub, working on the production website. Outside of work, I am very passionate about software development and do a lot in my own time as well. Please reach out if you would like to work together professionally or on personal projects!
+Hi! My name is Charlie LeWarne and I am an entry level software developer. My experience is in full stack engineering and am very passionate about backend work in particular. I have been working outside of school as a freelancer for 9 months, as well as 5 months at a startup: Good Work Hub, working on the production website. 
+
+Outside of work, I am very passionate about software development and do a lot in my own time as well. Please reach out if you would like to work together professionally or on personal projects!
 
 ## 📫 Contact Information
 
@@ -27,7 +29,7 @@ Hi! My name is Charlie LeWarne and I am an entry level software developer. My ex
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/charles-lewarne-8516851a8/)
 - Email: clewarne15@gmail.com
 
-## Skills
+## 👨‍💻 Skills
 
 - Programming Languages: Python, JavaScript, Java, C++
 - Frontend Development: HTML, CSS, React, Redux
@@ -35,7 +37,7 @@ Hi! My name is Charlie LeWarne and I am an entry level software developer. My ex
 - Project Management: Jira, Confluence, Notion
 - Version Control: Git
 
-## Education
+## 📗 Education
 
 - Bachelor of Science in Computer Science, Pacific Lutheran University, 2022
 
@@ -50,13 +52,13 @@ Hi! My name is Charlie LeWarne and I am an entry level software developer. My ex
   - Initiated contact and coordinated with clients to build websites according to specifications using React, HTML, CSS, JavaScript, Git, Django, Node.js, and AWS Amplify.
   - Personally implemented user interfaces and back-end functionality to produce reactive and functional websites, allowing clients to reach a broader demographic of customers.
 
-## Hobbies and Interests
+## 🌄 Hobbies and Interests
 
 - Hiking
 - Tennis
 - Cooking
 
-## Connect with Me
+## 😄 Connect with Me
 
 Feel free to reach out and connect with me on social media or professional platforms.
 
