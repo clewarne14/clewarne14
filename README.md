@@ -41,7 +41,7 @@ Outside of work, I am very passionate about software development and do a lot in
 
 - Bachelor of Science in Computer Science, Pacific Lutheran University, 2022
 
-## Work Experience
+## 💼 Work Experience
 
 - Full Stack Engineer, Good Work Hub, June 2023 - Present
   - Working on a team of 5 to design/build web pages, and web scraping tools utilizing Python, Scrapy, Django, React, Redux, Jira, Confluence and Agile.
