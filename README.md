@@ -26,7 +26,7 @@ Outside of work, I am very passionate about software development and do a lot in
 ## 📫 Contact Information
 
 - GitHub: [clewarne14](https://github.com/clewarne14)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/charles-lewarne-8516851a8/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-lewarne-8516851a8/)
 - Email: clewarne15@gmail.com
 
 ## 👨‍💻 Skills
@@ -35,6 +35,7 @@ Outside of work, I am very passionate about software development and do a lot in
 - Frontend Development: HTML, CSS, React, Redux
 - Backend Development: Django, Node.JS
 - Project Management: Jira, Confluence, Notion
+- Databases: SQL, NoSQL
 - Version Control: Git
 
 ## 📗 Education
