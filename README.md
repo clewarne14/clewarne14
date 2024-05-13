@@ -41,10 +41,11 @@ Outside of work, I am very passionate about software development and do a lot in
 ## 📗 Education
 
 - Bachelor of Science in Computer Science, Pacific Lutheran University, 2022
+- Master of Science in Computer Science and Systems, University of Washington, 2025
 
 ## 💼 Work Experience
 
-- Full Stack Engineer, Good Work Hub, June 2023 - Present
+- Full Stack Engineer, Good Work Hub, June 2023 - January 2024
   - Working on a team of 5 to design/build web pages, and web scraping tools utilizing Python, Scrapy, Django, React, Redux, Jira, Confluence and Agile.
   - Independently building a web scraping tool with Scrapy used to automatically obtain necessary information from websites.
   - Designing and integrating database schema and custom API endpoints into production-ready website.
